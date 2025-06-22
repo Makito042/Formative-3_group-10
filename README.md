@@ -27,16 +27,7 @@ Your group must submit:
 
 
 
-## 👥 Contributions
 
-| Name | Task Assigned                   |
-|------|----------------|----------------|
-| Prince Makuochi   | Implemented Binomial distribution + iteraton 2|
-| Hortance Irakoze  | Bayesian probability + Iteration 3            |
-| Denis Mitali      |  |
-| Davy Ngamije      |  |
-
----
 
 ## 🧰 Tools Used
 
