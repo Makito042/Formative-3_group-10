@@ -16,7 +16,6 @@ The project is split into four parts. Every group member  contributed and there 
 
 ## 📂 Submission Files
 
-Your group must submit:
 
 | File | Description |
 |------|-------------|
